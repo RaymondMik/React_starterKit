@@ -1,0 +1,14 @@
+/*==================================
+            Typography
+==================================*/
+
+// @include font-face('MyriadPro-Regular', 'MyriadPro-Regular', '0tf');
+
+h1, h2, h3, h4, h5, h6  {
+    color: $color-heading;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+}
