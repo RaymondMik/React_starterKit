@@ -1,5 +1,5 @@
 {
-  "name": "react_starterKit",
+  "name": "scoreboard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,12 @@
     "start": "webpack-dev-server --progress --inline --hot"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ramon Miklus",
   "license": "ISC",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
   "devDependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
