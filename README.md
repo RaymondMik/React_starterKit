@@ -1,5 +1,5 @@
 # React_starterKit
-A simple webpack setup to work with React.js. This setup includes basic functionalities such as Babel, hot-reloading and Sass.
+A simple webpack setup to work with React.js. This setup includes basic functionalities such as ES6 compiling with Babel, hot-reloading and Sass compiling.
 
 <h2>Installation</h2>
 Follow this steps to install the project on your machine and start working with React.js:
