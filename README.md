@@ -1,3 +1,5 @@
+<h4>For a better, up-to-date React/Redux Webpack setup please check out my latest  project here: https://github.com/RaymondMik/redux_react_boilerplate</h4>
+
 # React_starterKit
 A simple webpack setup to work with React.js. This setup includes basic functionalities such as ES6 compiling with Babel, hot-reloading and Sass compiling.
 
